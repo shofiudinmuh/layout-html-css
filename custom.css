@@ -1,0 +1,75 @@
+body{
+    background: #f3f3f6;
+    color : #333;
+    width: 100%;
+    font-family: sans-serif;
+    margin: auto;
+}
+.header{
+    width: 90%;
+    margin: auto;
+    height: 120px;
+    line-height: 120px;
+    background :#417;
+    color: #fff;
+}
+.menu{
+    background-color: #417;
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.jarak{
+    padding: 0 2pc;
+}
+.menu ul{
+    list-style : none;
+}
+.menu ul li a:hover{
+    background-color : #4b88bb;
+    display: block;
+}
+.content{
+    width: 90%;
+    margin: auto;
+    height: 420px;
+    padding: 0 auto;
+    background: #fff;
+    color: #333;
+}
+.border{
+    border : 2px solid #4887b9;
+    margin-top: 1pc;
+    padding-bottom: 1pc;
+    padding-left: 2pc;
+    padding-right: 2pc;
+}
+.kiri{
+    float: left;
+    width: 70%;
+    margin: auto;
+    background: #fff;
+    height: 420px;
+}
+.kanan{
+    float: left;
+    width: 30%;
+    margin: auto;
+    background: #fff;
+    height: 420px;
+}
+.undecor{
+    text-decoration: none;
+}
+.footer{
+    width: 90%;
+    margin: auto;
+    height: 40px;
+    line-height: 40px;
+    background :#417;
+    color: #fff;
+    margin-bottom: 1pc;
+}
